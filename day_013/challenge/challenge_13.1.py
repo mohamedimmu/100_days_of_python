@@ -69,16 +69,6 @@ for number in range(1, 101):
         print(number)
 
 
-# Tips to debug
-# 1.  Describe the problem
-# 2.  Reproduce the bug
-# 3.  Play as computer
-# 4.  Fix the errors
-# 5.  Print to debug
-# 6.  Use a debugger
-# 7.  Ask other developer
-# 8.  Take break
-# 9.  Run often
-# 10. Ask stackoverflow
+
 
 
