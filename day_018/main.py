@@ -1,3 +1,4 @@
+# Project 18 - Hirst Spot Painting
 # Tk Color Link - https://cs111.wellesley.edu/labs/lab01/colors
 # Tk Color Link 2 - https://trinket.io/docs/colors
 
