@@ -1,5 +1,5 @@
-# Prject 18 - Quizz App
-# QUestion Api Link: https://opentdb.com/api_config.php
+# Prject 18 - Quiz App
+# Question Api Link: https://opentdb.com/api_config.php
 
 from day_017.data import question_data2
 from day_017.question_model import Question
