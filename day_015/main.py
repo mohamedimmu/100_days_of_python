@@ -18,8 +18,8 @@ def report():
 
 def stock_check(coffee_ingredients):
     count = 0
-    for resource in resources.values():
-        if resource < coffee_ingredients[count]:
+    for (resource, value) in resources.items():
+        if value < coffee_ingredients[count]:
             print(f"Sorry there is not enough {resource}.")
             return False
         count += 1
@@ -61,6 +61,8 @@ def coffee(coffee_name):
 
         print(f"Here is your {coffee_name} ☕. Enjoy!")
         return coffee_amount
+    else:
+        return 0
 
 
 machine_status = 'ON'
