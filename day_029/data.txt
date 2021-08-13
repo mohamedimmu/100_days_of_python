@@ -1,0 +1,5 @@
+Amazon | defaultmail@gmail.com | 1234567890
+Ebay | defaultmail@gmail.com | abcdef 
+Flipkart | defaultmail@gmail.com | helloworld 
+bookmyticket | defaultmail@gmail.com | newmovie 
+Marvel | defaultmail@gmail.com | 3v*Prj8J&iB4(w 
