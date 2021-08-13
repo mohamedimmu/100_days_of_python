@@ -6,8 +6,9 @@ from turtle import Turtle, Screen
 is_race = False
 screen = Screen()
 screen.setup(width=500, height=400)
-user_bet = screen.textinput(title="Make your bet", prompt="Which turtle will win the race? Enter a color: ")
-colors = ['red', 'orange', 'yellow', "green", "blue", "purple"]
+user_bet = screen.textinput(title="Make your bet", prompt="Which turtle will win the race? Choose the color: "
+                                                          "\n(red,orange,yellow,green,blue,purple)")
+colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 
 y_axis = -75
 all_turtles = []
@@ -28,7 +29,6 @@ while is_race:
         if turtle.xcor() > 220:
             is_race = False
             winning_turtle = turtle.pencolor()
-            print("\n")
             if winning_turtle == user_bet:
                 print(f"You win !!! The winning turtle is {winning_turtle}")
             else:
