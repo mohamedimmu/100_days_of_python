@@ -1,4 +1,4 @@
-# Project 31 - Flash cards
+# Project 31 - Flash Cards
 
 from tkinter import *
 import random
