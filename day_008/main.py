@@ -1,4 +1,4 @@
-# Project - 8 caesar cipher
+# Project - 8 Caesar Cipher
 # link - https://en.wikipedia.org/wiki/Caesar_cipher
 # link : http://compoasso.free.fr/primelistweb/page/prime/liste_online_en.php
 # eg : decode - ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl | shift = 5
